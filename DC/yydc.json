@@ -1,7 +1,7 @@
 {
 "storeHouse": [
-{"sourceName":"🌙常用优选仓","sourceUrl":"https://lvqh020.github.io/DX/smiles"},
-{"sourceName":"🌙自用收集仓","sourceUrl":"https://lvqh020.github.io/DX/api"},
+{"sourceName":"🌙常用优选仓","sourceUrl":"https://lvqh020.github.io/DX/yydx.json"},
+{"sourceName":"🌙自用收集仓","sourceUrl":"https://lvqh020.github.io/DX/api.json"},
 {"sourceName":"🌙月光优选仓","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/dc2.json"},
 {"sourceName":"🌙七星影仓","sourceUrl":"https://qixing.myhkw.com/DC.txt"},
 {"sourceName":"🌙讴歌仓库","sourceUrl":"https://xn--5pp5-rp5imh.v.nxog.top/api.php?id=2"},
