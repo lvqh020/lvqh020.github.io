@@ -89,15 +89,6 @@
                 "danmu": true
             }
         },
-	{
-	    "key": "py_Xhm",
-	    "name":"py Xhm",
-	    "type": 3,
-            "api": "./py/py_Xhm.py",
-	    "searchable":1,
-	    "quickSearch":1,
-            "filterable": 0	    
-	},
         {
             "key": "哔哩弹幕",
             "name": "哔哩｜弹幕",
